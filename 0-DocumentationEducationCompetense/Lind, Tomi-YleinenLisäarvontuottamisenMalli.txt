@@ -1,0 +1,88 @@
+GENERIC MODEL OF VALUE ADDITION
+                              INCOME
+                    (payment from customer / market)
+                                  |
+                                  v
+
++----------------+-----------+--------------------------+----------------------------------+----------------------+
+|  Organization  |   IPR     |        Functions         | PRODUCT BUILD SCOPE AREA         | response time of     |
+|                |           |                          |          (Products)              | function             |
+|                |           |                          +------+------+------+------+------+                      |
+|                |           |                          | P1   | P2   | P3   | P4   | P5   |                      |
++----------------+-----------+--------------------------+------+------+------+------+------+----------------------+
++----------------+-----------+--------------------------+------+------+------+------+------+----------------------+
+|                |           | Support (HelpDesk)       |  1   |  1   |  1   |  1   |  1   | online               |
++                +           +--------------------------+------+------+------+------+------+----------------------+
+|                |           | Sales                    |  1   |  1   |  1   |  1   |      | online               |
++                +           +--------------------------+------+------+------+------+------+----------------------+
+|                | DEC =     | Deployment               |  1   |  1   |  1   | 0,5  |      | online               |
++                +           +--------------------------+------+------+------+------+------+----------------------+
+|                | Documenta-|                          |      |      |      |      |      |                      |
+| Production     | tion,     | Product areas            |      |      |      |      |End-  | 1h                   |
+| Management     | Education,|                          |      |      |      |      |User  |                      |
+|                | Competence|                          |      |      |      |      |      |                      |
+|                |           |                          |      |      |      |App-  |      | 4h                   |
+|                |           |                          |      |      |      |lica- |      |                      |
+|                |           |                          |      |      | App- |tion  |      | 1d                   |
+|                |           |                          |      |      |lica- |      |      |                      |
+|                |           |                          |      |Plat- |tion  |      |      | 1w                   |
+|                |           |                          |Suppor|form  |Plat- |      |      |                      |
+|                |           |                          |t Func|      |form  |      |      | 1y                   |
+|                |           |                          |tions |      |      |      |      | 1y                   |
++                +           +--------------------------+------+------+------+------+------+----------------------+
+|                |           | Technology Groups        |  1   |  1   |  1   |  1   |      | 6months              |
++                +           +--------------------------+------+------+------+------+------+----------------------+
+|                |           | Development              |  1   |  1   |  1   | 0,5  |      | 1                    |
++                +           +--------------------------+------+------+------+------+------+----------------------+
+|                |           | Research                 |  1   |  1   |      |      |      | 2y                   |
++----------------+-----------+--------------------------+------+------+------+------+------+----------------------+
++----------------+-----------+--------------------------+------+------+------+------+------+----------------------+
+
+
+
+                         EACH FUNCTION = SUMMARIZER
+                              (internal model)
+
+             +------------------------------------------------------+
+             |       INCOME to function                             |
+             |       (from customers / other functions)             |
+             |                         |                            |
+             |                         v                            |
+             |              +-------------------------+             |
+             |              |    FUNCTION ACTIVITIES  |             |
+             |              | (work performed by the  |             |
+             |              |        function)        |             |
+             |              +-------------------------+             |
+             |                         |                            |
+             |              /          |           \                |
+             |             /           |            \               |
+             |            v            v             v              |
+             |  Purchase Costs   Profit / Loss     Value Addition   |
+             |  (funds drain     (result of       ( funds drain     |
+             |   purchases )     the function )   enhancement costs)|
+             +------------------------------------------------------+
+
+
+                    ORGANIZATION = BIG SUMMARIZER
+                    (whole organization as one single function)
+
+             +------------------------------------------------------+
+             |       INCOME to organization                         |
+             |       (from customers / market)                      |
+             |                         |                            |
+             |                         v                            |
+             |                                                      |
+             |  ------------------   ------------------  ---------- |
+             |  Total Purchase     Total Jalostus /     PROFIT /    |
+             |  Costs              Value Addition        LOSS       |
+             |  (funds drain)      (total enhancement   (overall    |
+             |                     costs - funds drain) result of   |
+             |                                              org.)   |
+             +------------------------------------------------------+
+                                  |
+                                  v
+
+                         PROFIT to bottom
+                       (owners, investors)
+
+                or FUNDING NEEDED from bottom if negative
