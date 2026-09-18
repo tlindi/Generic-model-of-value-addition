@@ -33,8 +33,3 @@ The final design direction was originally inspired by the prompt sequence that p
 > It generated very nice 3 pages which I like very much. Nice 3 pages. Perfect. Now do similar but use as car images the European XKR 2000 Model Coupe. And in title mention very small text "by jagports".
 
 The VIEPS PNG files themselves are not the visual source of truth for GMVA.
-
-## Related work
-
-- Final GMVA implementation: https://github.com/tlindi/Generic-model-of-value-addition/pull/2
-- Evaluation issue: https://github.com/jagports/jagports/issues/777
